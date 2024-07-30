@@ -1,0 +1,18 @@
+.main{
+ width: auto;
+ height: auto;
+}
+.esp1{
+    width: auto;
+    height: auto;
+    display: flex;
+    align-items: center;
+   
+    
+    
+}
+.img1{
+    width:auto ;
+    height: auto;
+    margin-right: 5%;
+}

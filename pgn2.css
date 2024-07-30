@@ -1,0 +1,183 @@
+nav{
+    background-color: rgba(179, 179, 179, 0.733);
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.8), rgba(0, 0, 0, 0.8), rgb(155, 11, 11), rgba(145, 145, 28, 0.979)), 
+    url('https://www.heropatterns.com/patterns/jigsaw.svg') no-repeat center center;
+    background-size: cover;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 20px;
+    
+}
+p{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    text-indent: 15px;
+}
+
+.div_1{
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+   
+    margin-top: 50px;
+}
+.card1{
+    width: 500px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.11);
+    border-radius: 25px;
+    
+}
+#arnold_mr_olympia{
+    width: 230px;
+    height: auto;
+    border-radius: 15px;
+   margin-top: 5px;
+}
+.card2{
+    width: 500px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.11);
+    border-radius: 25px;
+
+}
+#hercules{
+    width: 250px;
+    height: auto;
+    border-radius: 15px;
+   margin-top: 5px;
+}
+.card3{
+    width: 500px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.11);
+    border-radius: 25px;
+}
+#Conan{
+    width: 185px;
+    height: auto;
+    border-radius: 15px;
+   margin-top: 5px;
+}
+
+.card4{
+    width: 500px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.11);
+    border-radius: 25px;
+
+}
+#comando{
+    width: 350px;
+    height: auto;
+    border-radius: 15px;
+    margin-top: 5px;
+}
+
+.card5{
+    width: 500px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.11);
+    border-radius: 25px;
+}
+#exterminador_ftr_1{
+    width: 330px;
+    height: auto;
+    border-radius: 15px;
+    margin-top: 5px;
+}
+.card6{
+    width: 500px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.11);
+    border-radius: 25px;
+}
+#exterminador_ftr_2{
+    width: 330px;
+    height: auto;
+    border-radius: 15px;
+    margin-top: 5px;
+}
+
+.card7{
+    width: 500px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.11);
+    border-radius: 25px;
+}
+#mercenarios_2{
+    width: 350px;
+    height: auto;
+    border-radius: 15px;
+    margin-top: 5px;
+}
+.card8{
+    width: 500px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.11);
+    border-radius: 25px;
+}
+#mercenarios_3{
+    width: 295px;
+    height: auto;
+    border-radius: 15px;
+    margin-top: 5px;
+}
+.card9{
+    width: 500px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.11);
+    border-radius: 25px;
+
+}
+#predator{
+    width: 380px;
+    height: auto;
+    border-radius: 15px;
+    margin-top: 5px;
+}
+.carousel-img {
+    max-width: 10%; /* Ajuste a porcentagem conforme necessário */
+    margin: 0 auto;
+}

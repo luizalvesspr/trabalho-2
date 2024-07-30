@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Wittgenstein:ital,wght@0,400..900;1,400..900&display=swap');
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+    
+}
+.main{
+     width: auto;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.8), rgba(0, 0, 0, 0.8), ), 
+    url('https://www.heropatterns.com/patterns/jigsaw.svg') no-repeat center center;
+    background-size: cover;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 20px;
+}
+
+    
+    
+
+
+
+p{text-align: justify;
+text-indent: 20px;
+font-family: "Wittgenstein", sans-serif;
+}
+.wer{
+    background-color: rgba(66, 66, 66, 0.144);
+}
+.container1{
+    background-color: rgba(0, 0, 0, 0.164);
+    width: 80%;
+    height: auto;
+    
+    padding: 25px;
+    border-radius: 25px;
+}
